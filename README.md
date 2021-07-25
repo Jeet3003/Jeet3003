@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeet3003
+- 👋 Hi, I’m Jeet Doshi.
 - 👀 I’m currently working on some  Data Analysis projects using SQL , Tableau , PowerBI , R and Python and also on small web based projects using HTML , CSS , BOOTSTRAP.
 - 🌱 I’m currently learning Microsoft Azure.
 - 💞️ I’m looking to collaborate on data sets and case studies and some open source web based projects.
